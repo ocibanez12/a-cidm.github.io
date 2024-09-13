@@ -22,7 +22,7 @@ Actualmente, trabajo en **Entel** automatizando procesos de mantenimiento en inf
 ⚙️ Automatizo procesos críticos en la infraestructura de fibra óptica, desarrollando una extensión web que optimiza los flujos de trabajo.
 
 ### Mis Pelusones (2018 - 2019)
-🐾 Desarrollé una plataforma de ventas que centralizó los pedidos y conectó con el sistema fiscal del SII, optimizando la gestión del negocio.
+🐾 Desarrollé una plataforma de ventas que centralizó los pedidos y conectó con el sistema fiscal del SII y Transbank, optimizando la gestión del negocio.
 
 ### Impresores Subercaseaux (2014 - 2015)
 🖨️ Implementé un sistema personalizado que se integraba con Adobe para mejorar los procesos de impresión y gestión de ventas.
